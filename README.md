@@ -1,2 +1,1 @@
-# SJ-TVZ
-Skriptni jezici 23/24
+# Skriptni jezici
